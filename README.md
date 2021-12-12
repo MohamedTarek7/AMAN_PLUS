@@ -1,6 +1,6 @@
-# aman_plus
+# AMAN PLUS
 
-My graduation project.
+My Graduation Project.
 
 ## About
 
@@ -8,4 +8,4 @@ This software was made for porpuse of cryptography, it provides a safe methodolo
 
 ## Getting Started
 
-test
+This software is compatible with Andriod devices 
