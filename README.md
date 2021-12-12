@@ -8,5 +8,8 @@ This software was made for porpuse of cryptography, it provides a safe methodolo
 
 ## Getting Started
 
-This software is compatible with Andriod devices 
-test
+This software is compatible with all devices running Adroid OS,
+it should be compatible with devices running IOS,
+but still not tested yet, due to lack of resources.
+
+### For instructions Check How-To-Use inside the app, in drawer section.
