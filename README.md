@@ -12,4 +12,4 @@ This software is compatible with all devices running Adroid OS,
 it should be compatible with devices running IOS,
 but still not tested yet, due to lack of resources.
 
-### For instructions Check How-To-Use inside the app, in drawer section.
+### For instructions check How-To-Use inside the app, in drawer section.
