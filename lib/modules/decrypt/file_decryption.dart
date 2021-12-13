@@ -146,6 +146,16 @@ class _FileDecryptionState extends State<FileDecryption> {
                               isLoading = false;
                               loadingMsg = '';
                             });
+
+                            if (err is OutOfMemoryError) {
+                              Fluttertoast.showToast(
+                                msg: 'Out of memory!',
+                                textColor: Colors.red,
+                                backgroundColor: Colors.white,
+                              );
+                              return err;
+                            }
+
                             Fluttertoast.showToast(
                               msg: 'Invalid or corrupted file!',
                               textColor: Colors.red,
